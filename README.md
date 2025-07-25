@@ -1,4 +1,4 @@
-# 🧠 Image Captioning and Segmentation App
+# 🧠 Image Captioning and Segmentation
 
 A deep learning-based web application that performs **Image Segmentation** and generates intelligent **Image Captions**. Built using **Streamlit**, **TensorFlow**, and **Transformers**.
 
